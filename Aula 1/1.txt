@@ -1,0 +1,1 @@
+Porque utilizando threads é possível executar mais de uma tarefa ao mesmo tempo dentro do programa, melhorando a eficiência.
