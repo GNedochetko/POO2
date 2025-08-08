@@ -1,0 +1,1 @@
+Estender Thread é melhor quando é necessário sobrepor um ou mais métodos fora o método run(), implementar Runnable é melhor quando se quer que uma Thread herde uma classe que não seja a classe Thread.
